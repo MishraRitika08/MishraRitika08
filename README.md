@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MishraRitika08
 - 👀 I’m interested in Blockchain Technology and Web Development.
-- 🌱 I’m currently learning Blockchain development.
-- 💞️ I’m looking to collaborate on Open Source.
+- 🌱 I’m currently learning Blockchain Development.
+- 💞️ I’m looking to collaborate in Open Source.
 - 📫 You can reach me via my email: mishra.r.0804@gmail.com
 
 <!---
