@@ -13,7 +13,7 @@
 - JavaScript
 
  ## Current Projects
-- Working on a decentralized application for [Mini_Project](https://github.com/MishraRitika08/Mini_Project2023)
+- Working on a decentralized application for [Mini_Project](https://github.com/MishraRitika08/mini_project)
 
 ## Future Goals
 - Aim to participate in Google Summer of Code (GSoC) 2024.
