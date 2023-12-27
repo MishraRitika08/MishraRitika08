@@ -12,7 +12,7 @@
 - HTML/CSS
 - JavaScript
 
- ## Current Projects
+ ## Current Project
 - Working on a decentralized application for [Mini_Project](https://github.com/MishraRitika08/ToDos)
 
 ## Future Goals
