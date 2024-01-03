@@ -16,7 +16,7 @@
 - Working on a decentralized application for [Mini_Project](https://github.com/MishraRitika08/ToDos)
 
 ## Future Goals
-- Aim to participate in Google Summer of Code (GSoC) 2024.
+- Aim to participate in Google Summer of Code (GSoC) 2024, teck stack -> Go, Java, JavaScript.
 - Continue learning and mastering new technologies and programming languages.
 
 Feel free to reach out to me if you want to discuss anything related to Blockchain, Web Development, or potential collaborations. Let's build something amazing together! ✨
