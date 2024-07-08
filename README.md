@@ -11,15 +11,11 @@
 - Solidity
 - HTML/CSS
 - JavaScript
-
- ## Current Project
-- Working on a decentralized application for [Mini_Project](https://github.com/MishraRitika08/ToDos)
+- ReactJs
 
 ## Future Goals
-- Aim to participate in Google Summer of Code (GSoC) 2024, teck stack -> Go, Java, JavaScript.
+- Aim to participate in Google Summer of Code (GSoC) 2025, teck stack -> Go, Java, ReactJs.
 - Continue learning and mastering new technologies and programming languages.
-
-Feel free to reach out to me if you want to discuss anything related to Blockchain, Web Development, or potential collaborations. Let's build something amazing together! ✨
 
 <!---
 MishraRitika08/MishraRitika08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
