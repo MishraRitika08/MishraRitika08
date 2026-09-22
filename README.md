@@ -25,7 +25,7 @@ MySQL • Git • GitHub
 
 - 📄 **Ask Your PDF** — RAG-based PDF question-answering application using Streamlit, ChromaDB, Hugging Face and Groq.
   - [Live Demo](https://ask-your-pdf-questions.streamlit.app/)
-  - [Source Code](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY)
+  - [Source Code](https://github.com/MishraRitika08/xyz)
 
 - ✍️ **Django Blogging App** — Full-stack blogging application with CRUD functionality and database integration.
 
@@ -39,7 +39,7 @@ MySQL • Git • GitHub
 
 ### 📫 Connect With Me
 
-- [LinkedIn]((https://www.linkedin.com/in/ritikamishra08/))
+- [LinkedIn](https://www.linkedin.com/in/ritikamishra08/)
 - [GitHub](https://github.com/MishraRitika08)
 - [Email](mailto:mishra.r.0804@gmail.com)
 
