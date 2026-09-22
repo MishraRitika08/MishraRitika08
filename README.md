@@ -39,9 +39,9 @@ MySQL • Git • GitHub
 
 ### 📫 Connect With Me
 
-- [LinkedIn](YOUR_LINKEDIN_URL)
-- [GitHub](https://github.com/YOUR_USERNAME)
-- [Email](mailto:YOUR_EMAIL)
+- [LinkedIn]((https://www.linkedin.com/in/ritikamishra08/))
+- [GitHub](https://github.com/MishraRitika08)
+- [Email](mailto:mishra.r.0804@gmail.com)
 
 ---
 
