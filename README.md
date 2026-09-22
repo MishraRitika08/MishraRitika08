@@ -12,16 +12,6 @@
 
 ---
 
-## 👩‍💻 About Me
-
-- 🎓 Computer Science graduate
-- 💻 Interested in Backend Development & AI/ML
-- 🤖 Building AI-powered applications using RAG and LLMs
-- 🚀 Currently working with Django, FastAPI and Streamlit
-- 🧩 Practicing Data Structures & Algorithms
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -47,24 +37,15 @@
 ## 🚀 Featured Projects
 
 ### 📄 Ask Your PDF
-
 RAG-based PDF question-answering application.
-
 **Tech:** Python • Streamlit • LangChain • ChromaDB • Hugging Face • Groq
-
 🔗 [Live Demo](https://ask-your-pdf-questions.streamlit.app/)  
-🔗 [Source Code](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY)
-
 ---
 
 ### ✍️ Django Blogging App
-
 A full-stack blogging application with CRUD functionality and database integration.
-
 **Tech:** Python • Django • SQL
-
-🔗 [Source Code](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY)
-
+🔗 [Live Demo](https://ask-your-pdf-questions.streamlit.app/)  
 ---
 
 ## 🌱 Currently Learning
