@@ -27,7 +27,7 @@ RAG-based PDF question-answering application.
 A full-stack blogging platform built with Django, Django REST Framework, PostgreSQL, HTML and Bootstrap. Features user authentication, blog CRUD, comments, tags, image uploads and documented REST APIs.
 
 **Tech:** Python • Django • Django REST Framework (DRF) • PostgreSQL • HTML5 • CSS3 • Bootstrap 5 • Django ORM • Swagger/OpenAPI • Git • GitHub • Render • REST APIs
-🔗 [Live Demo]([https://blogit-kg88.onrender.com/])  
+🔗 [Live Demo](https://blogit-kg88.onrender.com/)  
 ---
 
 ## 🌱 Currently Learning
