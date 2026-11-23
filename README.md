@@ -5,9 +5,9 @@
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ritikamishra08/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/ritika-mishra-linkdin/">LinkedIn</a> •
   <a href="https://github.com/MishraRitika08">GitHub</a> •
-  <a href="mailto:mishra.r.0804@gmail.com">Email</a>
+  <a href="mailto:mishraritikaa8@gmail.com">Email</a>
 </p>
 
 ---
