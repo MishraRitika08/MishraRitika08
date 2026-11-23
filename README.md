@@ -24,10 +24,10 @@ RAG-based PDF question-answering application.
 
 ### ✍️ Django Blogging App
 
-A full-stack blogging application with CRUD functionality and database integration.
+A full-stack blogging platform built with Django, Django REST Framework, PostgreSQL, HTML and Bootstrap. Features user authentication, blog CRUD, comments, tags, image uploads and documented REST APIs.
 
-**Tech:** Python • Django • SQL
-🔗 [Live Demo](https://ask-your-pdf-questions.streamlit.app/)  
+**Tech:** Python • Django • Django REST Framework (DRF) • PostgreSQL • HTML5 • CSS3 • Bootstrap 5 • Django ORM • Swagger/OpenAPI • Git • GitHub • Render • REST APIs
+🔗 [Live Demo]([https://blogit-kg88.onrender.com/])  
 ---
 
 ## 🌱 Currently Learning
